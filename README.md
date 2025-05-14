@@ -1,4 +1,4 @@
-##Insecured MCP Server Functionality
+## Insecured MCP Server Functionality
 
 Insecured MCP Server Simulation – Agentic Tool Schema Attack
 
